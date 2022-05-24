@@ -1,18 +1,17 @@
 # JPass
 
-
-![](https://raw.githubusercontent.com/thelearn-tech/img/main/IMG_20220524_152218.jpg)
 <br>
-</br>
+<br>
 ![](https://img.shields.io/badge/Code_in-HTML-orange)
 ![](https://img.shields.io/badge/Code_in-CSS-blue)
 ![](https://img.shields.io/badge/Code_in-JS-pink)
 <br>
-</br>
+<br>
 ![](https://img.shields.io/badge/Maintained-Yes-green)
 ![](https://img.shields.io/badge/Version-1.0-yellow)
 <br>
-</br>
+![](https://raw.githubusercontent.com/thelearn-tech/img/main/IMG_20220524_152218.jpg)
+<br>
 <a href="https://github.com/thelearn-tech/jpass/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/thelearn-tech/jpass?color=0088ff" />
 <a href="https://github.com/thelearn-tech/jpass/pulls">
