@@ -1,0 +1,53 @@
+body {
+	color: white;
+	background-color: #1A1A1A;
+    line-height: 1.5;
+    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;;
+
+}
+
+ h1, h2,h3 {
+ 	color: #B5E853;
+    line-height: 1.5;
+    font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;;
+ 	text-align: center;
+ }
+
+ .length_btn {
+ 	color: white;
+ 	height: 40px;
+ 	width: 45px;
+ 	padding: 8px;
+ 	margin-left: 10px;
+ 	margin-right: 10px;
+ 	font-size: 15px;
+ 	background-color: #23244F;
+ 	border-radius: 5px;
+ }
+
+ .length_holder {
+ 	font-size: 20px;
+ 	padding-left: 10px;
+ 	padding-right: 10px;
+ }
+
+.generate_btn {
+	background-color: gray;
+	padding: 5px;
+	font-size: 20px;
+	color: #B5E853;
+}
+
+.copy_btn {
+	padding:  7px;
+	margin-left: 15px;
+	background-color: #716DD6;
+}
+
+ .hr {
+border: 0;
+border-top: 2px dashed #B5E853;
+}
+
+.linkk {color: #6CBDEC; text-decoration: underline;}
+.mar_left {margin-left: 20px;}
